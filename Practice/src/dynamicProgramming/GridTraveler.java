@@ -13,7 +13,7 @@ public class GridTraveler {
 	
 	static int gridTraveler(int m,int n) {
 		
-		if (m*n <= 0 || m < 0) {
+		if (n <= 0 || m <= 0) {
 			return 0;
 		}
 		
