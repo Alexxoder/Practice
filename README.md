@@ -10,3 +10,4 @@
 - [GridTraveler](Practice/src/dynamicProgramming/GridTraveler.java)
 - [CanSum](Practice/src/dynamicProgramming/CanSum.java)
 - [HowSum](Practice/src/dynamicProgramming/HowSum.java)
+- [CanConstruct](Practice/python/canConstruct.py)
